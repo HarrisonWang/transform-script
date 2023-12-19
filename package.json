@@ -1,0 +1,26 @@
+{
+  "name": "transform-script",
+  "version": "1.0.0",
+  "description": "ES6 to ES5 transformer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HarrisonWang/transform-script.git"
+  },
+  "keywords": [
+    "es6",
+    "es5"
+  ],
+  "author": "小王爷 <harrisonwang.dev@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HarrisonWang/transform-script/issues"
+  },
+  "homepage": "https://github.com/HarrisonWang/transform-script#readme",
+  "publishConfig": {
+    "@harrisonwang:registry": "https://npm.pkg.github.com"
+  }
+}
