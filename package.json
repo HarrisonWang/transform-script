@@ -22,5 +22,8 @@
   "homepage": "https://github.com/HarrisonWang/transform-script#readme",
   "publishConfig": {
     "@harrisonwang:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

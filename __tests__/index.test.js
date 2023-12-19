@@ -1,6 +1,6 @@
 // __tests__/math.test.js
 
-const { add } = require('../math');
+const { add } = require('../index');
 
 test('add function adds two numbers', () => {
   expect(add(1, 2)).toBe(3);
